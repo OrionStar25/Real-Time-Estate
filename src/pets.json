@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/female.jpeg",
+    "age": 2017,
+    "breed": "Female",
+    "location": "A",
+    "cost": "1"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/female.jpeg",
+    "age": 2017,
+    "breed": "Female",
+    "location": "B",
+    "cost": "$1"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/male.png",
+    "age": 2017,
+    "breed": "Male",
+    "location": "B",
+    "cost": "$1"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/female.jpeg",
+    "age": 2017,
+    "breed": "Female",
+    "location": "C",
+    "cost": "$1"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/female.jpeg",
+    "age": 2016,
+    "breed": "Female",
+    "location": "A",
+    "cost": "$1"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/female.jpeg",
+    "age": 2016,
+    "breed": "Female",
+    "location": "A",
+    "cost": "$1"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/female.jpeg",
+    "age": 2016,
+    "breed": "Female",
+    "location": "B",
+    "cost": "$1"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/male.png",
+    "age": 2016,
+    "breed": "Male",
+    "location": "C",
+    "cost": "$1"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/female.jpeg",
+    "age": 2015,
+    "breed": "Female",
+    "location": "A",
+    "cost": "$1"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/male.png",
+    "age": 2015,
+    "breed": "Male",
+    "location": "B",
+    "cost": "$1"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/male.png",
+    "age": 2015,
+    "breed": "Male",
+    "location": "C",
+    "cost": "$1"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/male.png",
+    "age": 2015,
+    "breed": "Male",
+    "location": "C",
+    "cost": "$1"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/male.png",
+    "age": 2014,
+    "breed": "Male",
+    "location": "A",
+    "cost": "$1"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/female.jpeg",
+    "age": 2014,
+    "breed": "Female",
+    "location": "B",
+    "cost": "$1"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/male.png",
+    "age": 2014,
+    "breed": "Male",
+    "location": "A",
+    "cost": "$1"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/male.png",
+    "age": 2014,
+    "breed": "Male",
+    "location": "B",
+    "cost": "$1"
+  }
+]
