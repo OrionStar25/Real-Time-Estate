@@ -8,7 +8,7 @@ We're using [MetaMask](https://metamask.io/).
 
 ## Steps to use (on local host only):
 
-* npm install -g truffle
+* `npm install -g truffle`
 * git clone repo
 * cd to repo
 * `truffle compile`
